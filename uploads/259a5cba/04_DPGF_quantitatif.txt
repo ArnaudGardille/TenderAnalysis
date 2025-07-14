@@ -1,0 +1,31 @@
+DÉTAIL QUANTITATIF ET ESTIMATIF
+
+LOT 1 - MAÇONNERIE DE PIERRE
+
+| N° | Désignation | Unité | Qté | PU HT | Montant HT |
+|----|-------------|-------|-----|-------|------------|
+| 1.1 | Démontage pierres existantes | m² | 150 | 45,00 € | 6 750,00 € |
+| 1.2 | Nettoyage par micro-gommage | m² | 150 | 25,00 € | 3 750,00 € |
+| 1.3 | Remplacement pierres dégradées | m² | 25 | 180,00 € | 4 500,00 € |
+| 1.4 | Reprise joints à la chaux | m² | 150 | 35,00 € | 5 250,00 € |
+| 1.5 | Protection hydrofuge | m² | 150 | 15,00 € | 2 250,00 € |
+
+LOT 2 - ÉCHAFAUDAGE ET PROTECTION
+
+| N° | Désignation | Unité | Qté | PU HT | Montant HT |
+|----|-------------|-------|-----|-------|------------|
+| 2.1 | Échafaudage façade | m² | 200 | 12,00 € | 2 400,00 € |
+| 2.2 | Protection vitraux | m² | 50 | 8,00 € | 400,00 € |
+| 2.3 | Bâches de protection | m² | 200 | 5,00 € | 1 000,00 € |
+
+TOTAL HT : 26 300,00 €
+TVA 20% : 5 260,00 €
+TOTAL TTC : 31 560,00 €
+
+PLANNING PRÉVISIONNEL
+- Semaine 1-2 : Installation échafaudage
+- Semaine 3-8 : Démontage et nettoyage
+- Semaine 9-16 : Remplacement pierres
+- Semaine 17-20 : Reprise joints
+- Semaine 21-22 : Protection hydrofuge
+- Semaine 23-24 : Démontage échafaudage

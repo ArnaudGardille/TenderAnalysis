@@ -1,0 +1,12 @@
+{
+  "projet": "Restauration façade église Saint-Pierre",
+  "maitre_ouvrage": "Commune de Saint-Pierre",
+  "montant_estime": "31 560 € TTC",
+  "duree_chantier": "6 mois",
+  "documents": [
+    "01_reglement_consultation.txt",
+    "02_CCTP_techniques.txt",
+    "03_CCAP_administratif.txt",
+    "04_DPGF_quantitatif.txt"
+  ]
+}
